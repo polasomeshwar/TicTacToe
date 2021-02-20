@@ -1,6 +1,3 @@
 # TicTacToe
-TicToeToe game using socket programming 
-Run the Server progrm
-Run the Client program with your ipv4 address as a command line input 
-join 2 clients
-start playing !!!
+Tic-Tac-Toe Game is a very popular game played by two participants on the grid of
+n x n .In our game it is 4 x 4 . A special symbol (X or O) is assigned to each participant to indicate that the slot is covered by the respective participant. The winner of the game is the participant who first cover a horizontal, vertical or diagonal row of the board having only their symbols. This project proposed a platform for playing Tic-Tac-Toe game with 2 players and allow them to communicate through a messaging tab in the GUI application. This program is designed based on client-server model. Server allows two players in which client 1 acts as player 1 and client 2 acts as player 2.The players can mark their own choices.Server uses TTTP to check whether there is a winner or not based on the current status of the tic-tac-toe board , and is also responsible for maintaining communication between the two players.The contribution of this work is to design a GUI based 4x4 Tic-Tac-Toe game in which players can also communicate between themselves.  
